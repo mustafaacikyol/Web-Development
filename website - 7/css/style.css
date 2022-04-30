@@ -1,0 +1,61 @@
+.arkaplan {
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.bir {
+    font-size: 12px;
+}
+
+.iki:hover {
+    background-color: green;
+    color: white;
+    text-decoration: none;
+}
+
+.uc {
+    background-color: inherit;
+}
+
+.dort {
+    font-size: 40px;
+}
+
+.bes {
+    color: gray;
+}
+
+.alti {
+    line-height: 0.1em;
+    margin: 50px 0 50px;
+    border-bottom: 5px solid black;
+}
+
+.yedi {
+    background: black;
+    padding: 5px 15px;
+    color: white;
+    border-radius: 15px;
+}
+
+.sekiz:hover {
+    background-color: green;
+}
+
+.sekiz:hover .on {
+    display: none;
+}
+
+.on {
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+}
+
+.dokuz {
+    font-size: 10px;
+}
+
+.oniki {
+    background-color: rgb(53, 52, 52);
+}
