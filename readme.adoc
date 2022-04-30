@@ -10,7 +10,7 @@ Website interface is developed by HTML and CSS.
 
 Website interface is developed by HTML and CSS.
 
-* *Homework_3*
+* *Website - 3*
 
 Website interface is developed by HTML , Bootstrap and Javascript.
 
