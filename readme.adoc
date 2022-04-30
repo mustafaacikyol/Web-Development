@@ -1,1 +1,16 @@
+= Web Development
+
+The repository includes some examples of HTML , CSS , Bootstrap and Javascript.
+
+* *Website - 1*
+
+Website interface is developed by HTML and CSS.
+
+* *Website - 2*
+
+Website interface is developed by HTML and CSS.
+
+* *Homework_3*
+
+Website interface is developed by HTML , Bootstrap and Javascript.
 
