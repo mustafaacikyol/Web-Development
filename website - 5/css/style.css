@@ -1,0 +1,36 @@
+.baslik {
+    height: 80px;
+}
+
+i {
+    font-size: 25px;
+}
+
+h1::first-letter {
+    font-size: 80px;
+}
+
+.bir {
+    margin-left: -22px;
+}
+
+.iki {
+    margin-right: -5px;
+    margin-left: 0;
+}
+
+h3 {
+    font-size: small;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+.uc {
+    font-size: 12px;
+}
+
+.dort {
+    background-color: rgba(219, 213, 213, 0.1);
+}
