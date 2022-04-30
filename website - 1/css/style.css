@@ -1,0 +1,185 @@
+.bir {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#solkenar {
+    border-left: 1px solid gray;
+    margin-left: 10px;
+    padding-left: 10px
+}
+
+.bir div:first-child {
+    display: flex;
+    align-items: center;
+}
+
+.bir div button {
+    background-color: blue;
+    color: white;
+    padding: 8px 15px;
+}
+
+.bir div input {
+    padding: 7px 15px;
+}
+
+h1 {
+    font-size: 40px
+}
+
+.iki {
+    background-color: blue;
+    padding: 23px;
+}
+
+.iki nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.uc {
+   
+    background-image: url(https://picsum.photos/1400/400/);
+    margin: 40px 0;
+  
+}
+
+.uc-bir {
+    background-color: rgba(0, 0, 0, 0.46);
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    color: white
+}
+
+.uc-bir a {
+    text-decoration: none;
+    color: white;
+    padding-left: 200px;
+}
+
+.dort {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.dort div a {
+    text-decoration: none;
+}
+
+.dortle {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around
+}
+
+.dortler {
+    margin-left: 20px;
+}
+
+
+.dıdı {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.bıdı {
+    display: flex
+}
+
+.bıdı img {
+    border: 1px solid gray;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.bes {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.besli {
+    flex: 1;
+}
+
+.beslik {
+    margin: 0 20px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: darkgray;
+    padding: 30px;
+}
+
+@media screen and (max-width: 414px) {
+    .bir {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width: 414px) {
+    .iki nav {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+}
+@media screen and (max-width: 414px) {
+    .dort {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}
+
+  @media screen and (max-width: 414px) {
+    .dortler {
+     margin-left: 0;
+    }
+}      
+@media screen and (max-width: 414px) {
+    .dortle {
+     margin-bottom: 60px;
+    }
+}      
+@media screen and (max-width: 414px) {
+    .bes {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}
+@media screen and (max-width: 414px) {
+    .besli {
+     margin-bottom: 50px;
+    }
+}      
+@media screen and (max-width: 414px) {
+    footer {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 0;
+    }
+}
+@media screen and (max-width: 414px) {
+    footer span {
+     margin: 20px 0;
+    }
+} 
