@@ -1,0 +1,47 @@
+.bir {
+    position: relative;
+    right: 41px;
+}
+
+@media all and (max-width:576px) {
+    .bir {
+        position: relative;
+        right: 0;
+        bottom: 38px;
+    }
+}
+
+.iki {
+    font-size: 40px;
+}
+
+.iki::first-letter {
+    font-size: 55px;
+}
+
+.uc {
+    font-size: 14px;
+}
+
+.dort {
+    height: 550px;
+    width: 100%;
+}
+
+.bes {
+    line-height: 0.1em;
+    margin: 10px 0 50px;
+}
+
+.alti {
+    background: #fff;
+    padding: 0 10px;
+}
+
+.yedi {
+    font-size: 11px;
+}
+
+body {
+    background-image: url('img/resim1.jpg');
+}
