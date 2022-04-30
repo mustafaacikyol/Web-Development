@@ -1,6 +1,7 @@
 = Web Development
 
 The repository includes some examples of HTML , CSS , Bootstrap and Javascript.
+In these examples I used cdn when I need Bootstrap , Javascript and Jquery.
 
 * *Website - 1*
 
